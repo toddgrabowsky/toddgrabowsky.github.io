@@ -20,7 +20,7 @@ Here is a simple recipe for making a website using [Jekyll](http://jekyllrb.com/
 When you click the "Fork" button you should see something like this:
 ![Github Fork Gif](https://help.github.com/assets/images/site/fork-a-repo.gif)
 You've basically just copied the repository into your github account. Nice work!
-5. Open you newly forked repository and click the "Settings" tab
+5. Open your newly forked repository and click the "Settings" tab
 ![github repo settings tab](https://pages.github.com/images/settings@2x.png)
 6. In the "Repository Name" field, type: yourusername.github.io (replace "yourusername" with your github username) and click "Rename"
 7. Now if you navigate to https://yourusername.github.io, you should see a copy of the website that you forked. Now you just need to customize it. _I say "just", but this can be the most time-intensive part. If you're anything like me, then you could spend days, weeks, even years tweaking little style\*\* or usability things. The next step at least gives you a place to start._
