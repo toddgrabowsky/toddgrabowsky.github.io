@@ -1,0 +1,15 @@
+---
+title: "CV"
+about:
+  template: jolla
+  image: profile.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+\[CV goes here\]
