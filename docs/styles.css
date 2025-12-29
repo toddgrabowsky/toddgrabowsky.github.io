@@ -1,0 +1,13 @@
+/* css styles */
+
+.navbar-title {
+  font-size: .75em;
+}
+
+.subtitle {
+  font-size: 1em;
+}
+
+div.quarto-about-jolla {
+  margin-top: 0px !important;
+}
