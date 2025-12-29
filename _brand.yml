@@ -1,0 +1,27 @@
+defaults:
+  bootstrap:
+    defaults:
+      navbar-bg: white
+      navbar-fg: black
+
+color:
+  palette:
+    dark-grey: "#333333"
+    blue: "#cfe0ff"
+  background: white
+  foreground: dark-grey
+  primary: "#0e62ff"
+  tertiary: "#6FB98D"
+
+logo: 
+  small: favicon.ico
+  large: logo.png
+
+typography:
+  fonts:
+    - family: Jura
+      source: google
+    - family: Marcellus
+      source: google
+  base: Jura
+  headings: Marcellus

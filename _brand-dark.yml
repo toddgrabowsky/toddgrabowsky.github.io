@@ -1,0 +1,27 @@
+defaults:
+  bootstrap:
+    defaults:
+      navbar-bg: "#333333"
+      navbar-fg: white
+
+color:
+  palette:
+    dark-grey: "#333333"
+    blue: "#cfe0ff"
+  background: dark-grey
+  foreground: blue
+  primary: "#0e62ff"
+  tertiary: "#6FB98D"
+
+logo: 
+  small: favicon.ico
+  large: logo.png
+
+typography:
+  fonts:
+    - family: Jura
+      source: google
+    - family: Lexend
+      source: google
+  base: Jura
+  headings: Lexend

@@ -1,0 +1,41 @@
+---
+title: "About"
+about:
+  template: trestles
+  image: profile.png
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      aria-label: LinkedIn
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      aria-label: Github
+      href: https://github.com
+    - icon: file-text
+      text: Resume
+      aria-label: Resume
+      href: resume.qmd
+---
+
+Todd Grabowsky is a data scientist .
+
+## Education
+
+[University of Virginia](https://www.virginia.edu/){.external target="_blank"} | Charlottesville, VA
+
+B.S. in Systems Engineering | Class of 2007
+
+## Experience
+
+[DLA Piper](https://www.dlapiper.com){.external target="_blank"} | Managing Director, AI Technology | March 2023 - present
+
+[Faegre Drinker Biddle & Reath](https://www.faegredrinker.com){.external target="_blank"} | Senior Data Scientist | April 2019 - March 2023
+
+[Elder Research, Inc](https://www.elderresearch.com/){.external target="_blank"} | Data Scientist | February 2014 - April 2019
+
+[Peraton](https://www.peraton.com/){.external target="_blank"} (The SI Organization) | Systems Engineer | July 2011 - February 2014
+
+[GDIT](https://www.gdit.com/) (Touchstone Consulting Group) | Consultant | March 2008 - July 2014

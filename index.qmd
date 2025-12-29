@@ -1,0 +1,34 @@
+---
+title: "Todd Grabowsky"
+subtitle: "🤓Data Scientist &middot; 👨‍🍼Dad &middot; 🇵🇱🇵🇭Poli-pino<br>🪚Woodworker &middot; 👨‍🔧Tinkerer &middot; 🪀Yo-yoer &middot; 🤹‍♂️Juggler<br>☕️Lover of coffee &middot; 📖Reader of poetry &middot; 🚲Rider of bikes"
+about:
+  template: trestles
+  image: profile.png
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      aria-label: LinkedIn
+      href: https://linkedin.com/in/toddgrabowsky
+      target: _blank
+    - icon: github
+      text: Github
+      aria-label: GitHub
+      href: https://github.com/toddgrabowsky
+      target: _blank
+    - icon: file-text
+      text: Resume
+      aria-label: Resume
+      href: resume.qmd
+page-layout: full
+back-to-top-navigation: false
+---
+
+<br><br>
+
+# 👋 Hi there.
+
+I’m a data scientist who loves building things&mdash;whether it's software, woodworking projects, or community with other humans. I’m happiest when there’s a messy problem to untangle. I started my career developing AI systems for the DoD and Intelligence Community and now bring that experience to the legal industry. 
+
+I’m currently the Technology Lead for DLA Piper’s AI Innovation team, where I lead a team of engineers building an AI-powered legal platform. I'm focused on using AI to turn unstructured text into clean, structured outputs and validating the results so they’re reliable, accurate, and actually useful. 

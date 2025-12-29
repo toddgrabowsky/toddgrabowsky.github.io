@@ -1,0 +1,152 @@
+---
+title: "Todd Grabowsky"
+subtitle: "Last Updated: **December 29, 2025**"
+page-layout: article
+format:
+  html:
+    toc: true
+    toc-location: right
+---
+
+[{{< fa download >}} **Download a PDF**](2025-12-29_todd-grabowsky-resume.pdf){.external target="_blank"}
+
+#### AI and data science leader with expertise in:
+
+::: grid
+::: g-col-4
+-   [AI agents](https://www.anthropic.com/engineering/building-effective-agents){.external target="_blank"}
+-   Retrieval Augmented Generation (RAG)
+-   [Context engineering](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents){.external target="_blank"}
+-   AI Evaluation
+:::
+
+::: g-col-4
+-   R/Python programming
+-   Data wrangling
+-   Data visualization
+-   Predictive modeling
+-   [R/Python Shiny](https://shiny.posit.co/) web apps
+:::
+
+::: g-col-4
+-   Managing data science teams
+-   Stakeholder engagement
+-   Microsoft Azure cloud
+:::
+:::
+
+<br>
+
+### DLA Piper LLP
+
+[DLA Piper](https://www.dlapiper.com){.external target="_blank"} \| **Managing Director, AI Technology** \| _March 2023 - present_
+
+  * Manages a team of 12 software engineers and data scientists to design and build a legal AI platform for transforming legal files into validated, structured facts and generating legal insights from those extracted facts.
+  * Supported delivery of legal risk red teaming services alongside attorneys in the AI & Data Analytics Practice Group. Co-developed and implemented a patented methodology for automating legal risk red teaming for multiple six-figure engagements for Fortune 10 clients.
+  * Created early prototypes for extracting market term data from limited partnership agreements (LPAs) into a data product for DLA’s world-leading investment funds practice. Supported the production deployment of this data product along with a related AI system to automate the creation of the attorneys’ LPA work product which uses AI agents to answer over 200 nuanced legal questions about a given LPA.
+  * Built a system for collecting complaint files from a third party API service to support a six-figure engagement with one of the world’s largest pharmaceutical companies.
+  * Helped shape and inform DLA Piper’s AI strategy and represented the AI Innovation team on the firms AI Work Group. 
+
+<hr>
+
+### Faegre Drinker Biddle & Reath LLP (Tritura)
+
+[Faegre Drinker Biddle & Reath](https://www.faegredrinker.com){.external target="_blank"} ([Tritura](https://trituraig.com/){.external target="_blank"}) \| **Senior Data Scientist** \| _April 2019 - March 2023_
+
+  * Co-led design and implementation of a contract analytics platform for supporting due diligence for transactions. The platform performed intelligent document processing on deal documents and used AI to extract and store relevant information in a knowledge graph. The platform also used AI to classify clauses within contracts to accelerate due diligence activities.
+  * Managed a team of data scientists to develop and deploy AI products and services in support of customers within the law firm.
+  * Worked with clients to solve data-related problems including wrangling data from spreadsheets, extracting structured data from unstructured text sources, transcribing audio files into text, building applications to automate and streamline legal processes, and performing statistical analyses to identify issues related to algorithmic bias.
+  * Built tooling and facilitated best practices to promote internal process improvements for the Data Science team.
+  * Maintained and acted as administrator for data science infrastructure in Microsoft Azure, including the team's [Posit Connect](https://posit.co/products/enterprise/connect/){.external target="_blank"} and [Posit Workbench](https://posit.co/products/enterprise/workbench/){.external target="_blank"} infrastructure.
+
+<hr>
+
+### Elder Research, Inc.
+
+[Elder Research](https://www.elderresearch.com/){.external target="_blank"} \| **Data Scientist** \| _February 2014 - April 2019_
+
+  * Managed a team of data scientists and software engineers for a classified, multi-million dollar project with the National Geospatial Intelligence Agency. Coordinated with customers to define and solve business challenges using structured and unstructured data. Managed team using agile methodologies.
+  * Developed and maintained R and SQL database infrastructure for data science team, including creating and managing a local CRAN mirror for R packages in an air-gapped environment, and installing, configuring, and managing air-gapped RStudio Server and Shiny Server instances).
+  * Developed repeatable, automated processes for parsing XML and HTML documents at scale and extracting structured data into a SQL database.
+  * Developed and maintained 11 R Shiny web applications used by a team of more than 20 analysts on a daily basis.
+  * Implemented and deployed novel anomaly detection algorithms to help surface anomalous events for analysts.
+
+<hr>
+
+### Peraton (The SI Organization, Inc.)
+
+[Peraton](https://www.peraton.com/){.external target="_blank"} (The SI Organization) \| **Systems Engineer** \| _July 2011 - February 2014_
+
+  * Provided systems integration support for multi-year, multi-million dollar Research and Development (R&D) activities for a classified project in the US intelligence community.
+  * Provided project management support, working directly with customers, internal subject matter experts, and development contractors to ensure R&D projects completed on time, within scope, and within budget.
+  * Developed architecture, concept of operations (CONOPS), and requirements documentation and provided subject matter expertise to assist with oversight of R&D activities.
+  * Provided acquisition support to customers, drafting statements of work and reviewing proposals from development contractors.
+
+<hr>
+
+### General Dynamics IT (Touchstone Consulting Group)
+
+[GDIT](https://www.gdit.com/){.external target="_blank"} (Touchstone Consulting Group) \| **Consultant** \| _March 2008 - July 2014_
+
+  * Supported the Federal Emergency Management Agency’s (FEMA) Homeland Security Presidential Directive 12 (HSPD-12) implementation, a $5 million initiative impacting all of FEMA’s 20,000+ personnel.
+  * Created and managed project plans and project schedules, wrote standard operating procedures, drafted policy documents, managed logistics, and facilitated communications with key stakeholders across organizations to manage FEMA’s HSPD-12 deployment.
+  * Built tools to track and manage the HSPD-12 deployment.
+
+<hr>
+
+### Systems, Planning, and Analysis, Inc.
+
+[Systems, Planning, and Analysis](https://www.spa.com/){.external target="_blank"} \| **Systems Engineer** \| _September 2007 - March 2008_
+
+  * Worked with a team of software testers to test a large-scale, classified DoD software development project. 
+  * Designed test cases to verify system requirements.
+  * Wrote Python scripts to run test cases against the system.
+  * Met with subject matter experts to clarify system requirements and refine test cases, and collaborated with other project staff to solve problems and complete work assignments. 
+
+<hr>
+
+### Education
+
+[**University of Virginia**](https://www.virginia.edu/){.external target="_blank"} \| _Charlottesville, VA_ \| B.S. in Systems Engineering \| May 2007
+
+### Technical Skills
+
+::: grid
+::: g-col-6
+-   R, RStudio (Posit Connect, Shiny)
+-   Python
+-   SQL
+-   Git/Github
+-   Excel & MS Office, VBA
+-   HTML/CSS
+-   Javascript
+-   Neo4j
+-   Tableau, Power BI
+-   Microsoft Azure
+:::
+
+::: g-col-6
+-   AI Coding Assistants:
+    -   Github Copilot
+    -   Claude Code
+-   Agent Frameworks:
+    -   Langchain/Langgraph/Deepagents
+    -   OpenAI Agents SDK
+    -   Pydantic AI
+    -   Microsoft Agent Framework
+-   LLM observability tools:
+    -   Langsmith
+    -   Langfuse
+:::
+:::
+
+
+### Certifications
+
+  * Certified Associate in Project Management (CAPM) | 2008
+  * ITIL V3 Foundations Certified | 2010
+  * Associate Systems Engineering Professional | 2011
+
+### Patents
+
+  * Inventors: Blair, B., Carr, A., Tobey, D., Grabowsky, T., & Rakova, B. (2025). [SYSTEMS AND METHODS FOR ARTIFICIAL INTELLIGENCE RED TEAMING](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025171114&_cid=P21-MJQQ6J-77651-1){.external target="_blank"}. International (PCT) Patent Application No.  PCT/US2025/014766, filed February 6, 2025. Patent Pending. Developed a method for automating legal risk red teaming of generative AI-based systems.

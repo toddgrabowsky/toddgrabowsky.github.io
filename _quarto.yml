@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Todd Grabowsky"
+  navbar:
+    pinned: false
+    tools:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/toddgrabowsky
+      target: _blank
+    - icon: github
+      href: https://www.github.com/toddgrabowsky
+      target: _blank
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Resume
+        href: resume.qmd
+  back-to-top-navigation: true
+  page-footer: 
+    left: "Copyright 2025 &middot; Todd Grabowsky"
+    right: |
+      <span class="faux-block">Made with [{{< fa brands r-project >}}](https://www.r-project.org/about.html) and [Quarto](https://quarto.org)</span>
+
+format:
+  html:
+    css: styles.css
+
+brand:
+  light: _brand.yml
+  dark: _brand-dark.yml
