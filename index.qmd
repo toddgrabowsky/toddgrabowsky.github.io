@@ -1,6 +1,6 @@
 ---
 title: "Todd Grabowsky"
-subtitle: "🤓Data Scientist &middot; 👨‍🍼Dad &middot; 🇵🇱🇵🇭Poli-pino<br>🪚Woodworker &middot; 👨‍🔧Tinkerer &middot; 🪀Yo-yoer &middot; 🤹‍♂️Juggler<br>☕️Lover of coffee &middot; 📖Reader of poetry &middot; 🚲Rider of bikes"
+subtitle: "<span>🤓Data Scientist</span><span>👨‍🍼Dad </span><span>🇵🇱🇵🇭Poli-pino</span><span>🪚Woodworker</span><span>👨‍🔧Tinkerer</span><span>🪀Yo-yoer</span><span>🤹‍♂️Juggler</span><span>☕️Lover of coffee</span><span> 📖Reader of poetry</span><span>🚲Rider of bikes"
 about:
   template: trestles
   image: profile.png
