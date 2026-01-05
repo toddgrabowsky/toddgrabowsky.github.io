@@ -20,7 +20,7 @@ website:
         href: resume.qmd
   back-to-top-navigation: true
   page-footer: 
-    left: "Copyright 2025 &middot; Todd Grabowsky"
+    left: "Copyright &copy; 2025-{{< now year >}} &middot; Todd Grabowsky"
     right: |
       <span class="faux-block">Made with [{{< fa brands r-project >}}](https://www.r-project.org/about.html) and [Quarto](https://quarto.org)</span>
 
